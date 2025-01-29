@@ -1,7 +1,8 @@
 # Data Warehouse and Analytics Project
 
 Welcome! 
-This project is designed by **Shujat Ali Khan** as a portfolio project to demonstrate his skills 😊. It is a **comprehensive data warehousing and analytics solution**. From building a data source to generating actionable insights, it highlights industry best practices in data engineering and analytics. 
+This project is designed by **Shujat Ali Khan** as a portfolio project to demonstrate his skills 😊. 
+It is a **comprehensive data warehousing and analytics solution**. From building a data source to generating actionable insights, it highlights industry best practices in data engineering and analytics. 
 
 # Project Overview
 
@@ -11,7 +12,7 @@ This project involves:
 3. Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 4. Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights. 
 
-Kindly have a look at the repository to **get a glimpse of my skills in**:
+**Kindly have a look** at the repository to **get a glimpse of my skills in**:
 - SQL Development
 - Data Architecture
 - Data Engineering
